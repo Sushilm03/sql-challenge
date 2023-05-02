@@ -1,6 +1,6 @@
 # SQL-challenge
-# Homework - Week 9 - SQL-challenge
-All files and folders included are part of Homework(SQL) for Week 9.
+# Homework - Module 9 - SQL-challenge
+All files and folders included are part of Homework(SQL) for module 9.
 
 
 ## Intro/Objective
